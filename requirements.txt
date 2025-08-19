@@ -1,0 +1,5 @@
+Flask
+pyotp
+cryptography
+Flask-OAuthlib
+requests
